@@ -1,2 +1,2 @@
 # Diplomado_AI
-#### Regresión Lineal (Taller)
+#### Regresión Lineal (Taller) [www.wikipedia]
